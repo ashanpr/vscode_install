@@ -16,7 +16,7 @@ This repository provides a PowerShell script to automate the installation of Vis
 Before running the installation script, ensure that you meet the following prerequisites:
 
 - Windows operating system
-- PowerShell installed (minimum version X.X)
+- PowerShell installed 
 - Internet connectivity
 
 ## Installation
